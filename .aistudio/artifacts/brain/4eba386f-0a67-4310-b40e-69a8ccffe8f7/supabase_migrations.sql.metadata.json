@@ -1,0 +1,6 @@
+{
+  "summary":  "Supabase SQL Migrations for all project entities (expenses, budget, habits, tasks, wellness, notes).",
+  "updatedAt":  "2026-11-02T05:54:05.413015180Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
